@@ -14,7 +14,10 @@
 
 -   You can find the project at this GitHub repository: [Laravel-11-Inventory- Blade version](https://github.com/mabdusshakur/Laravel-11-Inventory)
 
-## Change Log
+### Features
 
--   Added axios interceptor to handle 401 (unauthorized) error globally
--   Added State authentication
+-   Customer management
+-   Category management
+-   Product management
+-   Invoice creation
+-   Invoice printing
